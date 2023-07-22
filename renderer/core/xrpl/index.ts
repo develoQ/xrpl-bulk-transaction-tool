@@ -1,6 +1,6 @@
 import { utils, XrplClient } from 'xrpl-accountlib'
 
-const client = new XrplClient('wss://testnet.xrpl-labs.com')
+const client = new XrplClient()
 
 export default {
   txValues: async (address: string) => {
