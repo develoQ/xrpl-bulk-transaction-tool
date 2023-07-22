@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "xrpl-bulk-transaction-took",
+  "name": "xrpl-bulk-transaction-tool",
   "description": "My application description",
   "version": "0.0.1",
   "author": "tequ <me@tequ.dev>",
